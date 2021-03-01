@@ -1,4 +1,4 @@
 ---
-title: Diffie Hellman Merkle VPN
+title: Diffie Hellman VPN
 redirect_to: https://github.com/swopnilnep/vpn
 ---
