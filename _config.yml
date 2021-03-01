@@ -7,3 +7,4 @@ permalink: /:slug/
 plugins:
   - jekyll-redirect-from
 
+#repository: swopnilnep/point
