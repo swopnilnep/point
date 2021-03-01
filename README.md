@@ -4,7 +4,7 @@
 
 View the URL Shortener in action:
 
-* https://hlaueriksson.github.io/jekyll-url-shortener/
+* https://point.swopnil.com/search/
 
 Read a blog post about the URL Shortener:
 
